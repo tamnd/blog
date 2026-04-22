@@ -1,6 +1,6 @@
 +++
 title = "Projects"
-menu = "main"
+draft = true
 weight = 4
 +++
 
