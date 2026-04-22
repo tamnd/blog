@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://tamnd.github.io/blog/sitemap.xml
